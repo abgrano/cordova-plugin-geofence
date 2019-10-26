@@ -405,14 +405,14 @@ Before you run `cordova-paramedic` install `npm install -g ios-sim`
 
 Add `--verbose` at the end of `cordova-paramedic` command.
 
-If build failed, try this step for IONIC 4
-1st : ionic cordova platform rm android
-2nd : ionic cordova plugin add cordova-plugin-add-swift-support@1.7
-3rd : ionic cordova plugin add cordova-plugin-androidx
-4th : ionic cordova plugin add cordova-plugin-androidx-adapter
-5th : ionic cordova platform add android@8
-6th : ionic cordova build android
-There you go. You can use this geofence perfectly.
+If build failed, try this step for IONIC 4<br>
+1st : ionic cordova platform rm android<br>
+2nd : ionic cordova plugin add cordova-plugin-add-swift-support@1.7<br><br>
+3rd : ionic cordova plugin add cordova-plugin-androidx<br>
+4th : ionic cordova plugin add cordova-plugin-androidx-adapter<br>
+5th : ionic cordova platform add android@8<br>
+6th : ionic cordova build android<br>
+There you go. You can use this geofence perfectly.<br>
 
 ## License
 
